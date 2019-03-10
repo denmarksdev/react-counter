@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# react-counter 
+
+Aplicação para estudo e implementação do [**Redux**](https://redux.js.org/), testes com [**enzyme**](https://airbnb.io/enzyme/)  e uso do [**Proptypes**](https://www.npmjs.com/package/prop-types)
 
 ## Available Scripts
 
